@@ -1,0 +1,26 @@
+/* @license
+ * MyFonts Webfont Build ID 2549328, 2013-05-07T00:02:58-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: ITC Blair Light by ITC
+ * URL: http://www.myfonts.com/fonts/itc/blair/light/
+ * Copyright: Copyright (c) 1995, 1997, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Linotype Library GmbH. ITC Blair 
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2549328
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/26e650");
+
+  
+@font-face {font-family: 'BlairITC-Light';src: url('webfonts/26E650_0_0.eot');src: url('webfonts/26E650_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/26E650_0_0.woff') format('woff'),url('webfonts/26E650_0_0.ttf') format('truetype');}
+ 
